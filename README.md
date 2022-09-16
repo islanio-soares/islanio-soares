@@ -1,6 +1,6 @@
-- 🔭 Sou acadêmica de matemática computacional
+- 🔭 Sou acadêmico de matemática computacional
 - 🌱 Estou estudando a linguagem C, HTML e Python
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronouns: Ele/Dele
 
 ## Oiii eu sou a Islânio 👋, iniciante no mundo da programação e tecnologia!
 <div align="center">
